@@ -73,7 +73,7 @@ Steps to Run
 Clone the repository:
 
 git clone https://github.com/amansahugupta/UserProfile.git
-cd userprofile
+cd authentication
 
 Build and run the application using Maven:
 
